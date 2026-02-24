@@ -96,7 +96,10 @@ Smart Campus is a free-to-use college management app developed to simplify stude
 20. Academic Calendar & Events
     - Important dates
     - Event notifications
-
+      
+21. Library time
+    - Library timer afohanger students to select and books seat for them
+      
 
 ---
 
