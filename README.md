@@ -1,8 +1,8 @@
 Smart Campus is a free-to-use college management app developed to simplify student life by providing attendance tracking, study planning, safety tools, navigation, and campus services in one platform. Built as a personal project and open for educational use with proper credit.
 
-## 🚀 Smart Campus – Complete Feature List
+##  Smart Campus – Complete Feature List
 
-### 👨‍🎓 Student Features
+###  Student Features
 
 1. AI Attendance System
    - Face recognition based attendance
